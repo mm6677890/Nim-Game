@@ -1,6 +1,6 @@
 # Nim-Game
 
-	*********** Run FlappyBird.exe  ***********
+	*********** Run Nim.exe  ***********
   🤖 Production: Unity
   👀 Art: Aseprite 
 	👌 Music: none
